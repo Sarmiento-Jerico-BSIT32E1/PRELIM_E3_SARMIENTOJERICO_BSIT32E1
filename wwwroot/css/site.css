@@ -1,0 +1,60 @@
+html {
+  font-size: 16px;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(me.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 1480px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.welcome-container {
+    text-align: right;
+}
+
+.welcome-title {
+    font-size: 50px;
+    font-weight: bold;
+    font-style: initial;
+}
+
+.info-section {
+    text-align: right;
+    margin-top: 20px;
+}
+
+.name {
+    font-size: 25px;
+    color: white;
+}
+.course {
+    color: white; 
+    font-size: 20px;
+}
+.section {
+    font-size: 20px;
+    color: white;
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SARMIENTO_JERICO_BSIT32E1.props" />
+</Project>
